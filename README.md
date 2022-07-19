@@ -1,12 +1,10 @@
-### Hey I'm DJ, I am a Java Developer and Lua Scripter
-
 # Hey! 👋
 I'm DJ.
 
 I have 3ish years of Roblox Lua experience, and around one year of Java experience.
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=DJNinja894&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,lua,html,css&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,lua&includeNames=true"></p>
 
 ### Current Projects
 - AOT Tribal BloodShed, a Roblox game. https://discord.gg/TgS7ka6c66
