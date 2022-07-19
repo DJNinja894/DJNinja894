@@ -22,8 +22,4 @@ I have 3ish years of Roblox Lua experience, and around one year of Java experien
 ![](https://komarev.com/ghpvc/?username=DJNinja894&style=for-the-badge)
 
 
-![quickdaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJNinja894&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJNinja894&theme=dark&layout=compact)
-
+![DJNinjas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJNinja894&show_icons=true&theme=dark)
