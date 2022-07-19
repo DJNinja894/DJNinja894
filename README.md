@@ -10,7 +10,7 @@ I have 3ish years of Roblox Lua experience, and around one year of Java experien
 
 ### Current Projects
 - AOT Tribal BloodShed, a Roblox game. https://discord.gg/TgS7ka6c66
-- Lots of random crap that I don't end up finishing 😤(Mostly Minecraft Modifications packs)
+- Lots of random projects that I don't end up finishing 😤(Mostly Minecraft Modifications packs)
 
 ### I'm interested in MOSTLY (Online)...
 - Minecraft Clients & Plugins
